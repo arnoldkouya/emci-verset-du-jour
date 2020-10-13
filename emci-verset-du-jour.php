@@ -1,7 +1,7 @@
 <?php 
 /*
 Plugin Name: EMCI Verset du jour
-Plugin URI: https://arnoldkouya.com/emci-verset-du-jour
+Plugin URI: https://github.com/arnoldkouya/emci-verset-du-jour
 Description: EMCI Verset du jour est un plugin qui permet d\'avoir le verset du jour disponible sur le site www.emci.com
 Version: 1.0.0
 Author: Arnold KOUYA
