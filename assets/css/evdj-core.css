@@ -1,0 +1,11 @@
+.img-card img{
+    margin: auto 0 auto 0;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+.author{
+    text-align: right;
+    font-size: 10px;
+}
